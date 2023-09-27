@@ -26,13 +26,19 @@ Additional ensemble techniques, including Bagging, AdaBoost, Gradient Boosting, 
 
 The models' performances are evaluated using accuracy scores and confusion matrices:
 
-Decision Tree (Overfit): Training Accuracy - 100%, Testing Accuracy - 69.33%
-Decision Tree (Pruned): Training Accuracy - 75.29%, Testing Accuracy - 74.33%
-Bagging Classifier: Testing Accuracy - 77.67%
-AdaBoost Classifier: Testing Accuracy - 74.00%
-Gradient Boosting Classifier: Testing Accuracy - 74.00%
-XGBoost Classifier: Testing Accuracy - 71.33%
-Random Forest Classifier: Testing Accuracy - 77.67%
+* Decision Tree (Overfit): Training Accuracy - 100%, Testing Accuracy - 69.33%
+  
+* Decision Tree (Pruned): Training Accuracy - 75.29%, Testing Accuracy - 74.33%
+
+* Bagging Classifier: Testing Accuracy - 77.67%
+
+* AdaBoost Classifier: Testing Accuracy - 74.00%
+
+* Gradient Boosting Classifier: Testing Accuracy - 74.00%
+
+* XGBoost Classifier: Testing Accuracy - 71.33%
+
+* Random Forest Classifier: Testing Accuracy - 77.67%
 
 # Conclusion 📊📉
 
