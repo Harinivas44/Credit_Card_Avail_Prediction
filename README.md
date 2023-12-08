@@ -1,5 +1,5 @@
 
-# Credit Card Availablility Prediction 📊💳
+# Credit Card Availability Prediction 📊💳
 
 ## Overview
 
